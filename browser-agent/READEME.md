@@ -1,6 +1,9 @@
 # 环境变量
 
 ags文档参考：https://cloud.tencent.com/document/product/1814/123816
+
+浏览器沙箱skills需要安装依赖库: pip install e2b playwright
+
 | 变量名 | 说明 | 必填 | 默认 |
 |--------|------|------|------|
 | E2B_DOMAIN | ags域名,地域维度，广州地域:ap-guangzhou.tencentags.com | 是 | 无 |
