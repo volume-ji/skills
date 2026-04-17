@@ -137,7 +137,7 @@ The browser behavior is controlled by environment variables in `config.py`:
 
 - `E2B_DOMAIN`: E2B service domain (default: ap-guangzhou.tencentags.com)
 - `E2B_API_KEY`: E2B API key for authentication
-- `E2B_AGS_TEMPLATE`: Sandbox template name (default: williamji-longtime)
+- `E2B_AGS_TEMPLATE`: Sandbox template name
 
 Set these as environment variables before starting the browser, or modify directly in `config.py`.
 
